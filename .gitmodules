@@ -1,0 +1,3 @@
+[submodule "genuary"]
+	path = genuary
+	url = https://github.com/jeberhardt/genuary.git
