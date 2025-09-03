@@ -1,3 +1,9 @@
 [submodule "genuary"]
 	path = genuary
 	url = https://github.com/jeberhardt/genuary.git
+[submodule "processing-gen-art"]
+	path = processing-gen-art
+	url = https://github.com/jeberhardt/processing-gen-art
+[submodule "generative-art"]
+	path = generative-art
+	url = https://github.com/jeberhardt/generative-art
