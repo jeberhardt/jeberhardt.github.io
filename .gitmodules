@@ -7,3 +7,6 @@
 [submodule "generative-art"]
 	path = generative-art
 	url = https://github.com/jeberhardt/generative-art
+[submodule "doodles"]
+	path = doodles
+	url = https://github.com/jeberhardt/doodles
